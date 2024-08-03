@@ -1,0 +1,1 @@
+This directory is for all things homelab related, ideas, where to find hardware etc
