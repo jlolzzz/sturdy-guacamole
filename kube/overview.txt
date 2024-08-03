@@ -1,0 +1,1 @@
+This directory overall is for custom kubernetes write ups and dope tricks 
